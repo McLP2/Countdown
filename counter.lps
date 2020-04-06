@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="counter.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="3"/>
+        <CursorPos X="26" Y="22"/>
+        <UsageCount Value="90"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="setup.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="107"/>
+        <CursorPos X="125" Y="122"/>
+        <UsageCount Value="90"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="showtimer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="36"/>
+        <CursorPos X="22" Y="73"/>
+        <UsageCount Value="90"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\Users\Lars\Downloads\rxfpc\rxdbgrid.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1398"/>
+        <CursorPos X="10" Y="1418"/>
+        <UsageCount Value="3"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\Users\Lars\Downloads\rxfpc\rxlookup.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="982"/>
+        <CursorPos X="24" Y="993"/>
+        <FoldState Value=" TM HlS41}"/>
+        <UsageCount Value="3"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus32\fpc\2.6.4\source\rtl\objpas\sysutils\datih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="123"/>
+        <CursorPos X="27" Y="143"/>
+        <UsageCount Value="4"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus32\fpc\2.6.4\source\rtl\objpas\sysutils\sysinth.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="43"/>
+        <CursorPos X="3" Y="172"/>
+        <UsageCount Value="4"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus32\fpc\2.6.4\source\rtl\win\sysutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="469"/>
+        <UsageCount Value="4"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus32\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2176"/>
+        <CursorPos Y="2196"/>
+        <UsageCount Value="4"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus32\fpc\2.6.4\source\rtl\objpas\dateutil.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="1248"/>
+        <CursorPos X="22" Y="1281"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus32\lcl\interfaces\win32\win32callback.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos Y="37"/>
+        <UsageCount Value="8"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\lazarus32\lcl\include\spinedit.inc"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="153"/>
+        <CursorPos X="6" Y="137"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit11>
+    </Units>
+    <JumpHistory Count="18" HistoryIndex="17">
+      <Position1>
+        <Filename Value="setup.pas"/>
+        <Caret Line="123" Column="5" TopLine="109"/>
+      </Position1>
+      <Position2>
+        <Filename Value="setup.pas"/>
+        <Caret Line="124" Column="5" TopLine="96"/>
+      </Position2>
+      <Position3>
+        <Filename Value="setup.pas"/>
+        <Caret Line="124" Column="5" TopLine="96"/>
+      </Position3>
+      <Position4>
+        <Filename Value="setup.pas"/>
+        <Caret Line="123" Column="41" TopLine="117"/>
+      </Position4>
+      <Position5>
+        <Filename Value="setup.pas"/>
+        <Caret Line="121" Column="79" TopLine="77"/>
+      </Position5>
+      <Position6>
+        <Filename Value="setup.pas"/>
+        <Caret Line="366" Column="30" TopLine="343"/>
+      </Position6>
+      <Position7>
+        <Filename Value="setup.pas"/>
+        <Caret Line="372" Column="31" TopLine="343"/>
+      </Position7>
+      <Position8>
+        <Filename Value="setup.pas"/>
+        <Caret Line="366" Column="32" TopLine="343"/>
+      </Position8>
+      <Position9>
+        <Filename Value="setup.pas"/>
+        <Caret Line="68" Column="5" TopLine="56"/>
+      </Position9>
+      <Position10>
+        <Filename Value="setup.pas"/>
+        <Caret Line="77" Column="60" TopLine="55"/>
+      </Position10>
+      <Position11>
+        <Filename Value="setup.pas"/>
+        <Caret Line="13" Column="62" TopLine="7"/>
+      </Position11>
+      <Position12>
+        <Filename Value="setup.pas"/>
+        <Caret Line="122" Column="92" TopLine="98"/>
+      </Position12>
+      <Position13>
+        <Filename Value="C:\lazarus32\fpc\2.6.4\source\rtl\objpas\dateutil.inc"/>
+        <Caret Line="256" Column="22" TopLine="237"/>
+      </Position13>
+      <Position14>
+        <Filename Value="C:\lazarus32\fpc\2.6.4\source\rtl\objpas\dateutil.inc"/>
+        <Caret Line="1213" Column="23" TopLine="1180"/>
+      </Position14>
+      <Position15>
+        <Filename Value="setup.pas"/>
+        <Caret Line="123" Column="122" TopLine="103"/>
+      </Position15>
+      <Position16>
+        <Filename Value="setup.pas"/>
+        <Caret Line="122" Column="118" TopLine="103"/>
+      </Position16>
+      <Position17>
+        <Filename Value="setup.pas"/>
+        <Caret Line="123" Column="23" TopLine="104"/>
+      </Position17>
+      <Position18>
+        <Filename Value="setup.pas"/>
+        <Caret Line="122" TopLine="104"/>
+      </Position18>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

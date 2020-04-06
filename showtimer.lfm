@@ -1,0 +1,50 @@
+object Form2: TForm2
+  Left = 390
+  Height = 240
+  Top = 402
+  Width = 320
+  BorderStyle = bsNone
+  Caption = 'Counter'
+  ClientHeight = 240
+  ClientWidth = 320
+  OnKeyPress = FormKeyPress
+  PopupMenu = PopupMenu1
+  LCLVersion = '1.4.4.0'
+  WindowState = wsMaximized
+  object Label1: TLabel
+    AnchorSideLeft.Control = Owner
+    AnchorSideTop.Control = Owner
+    AnchorSideRight.Control = Owner
+    AnchorSideRight.Side = asrBottom
+    AnchorSideBottom.Control = Owner
+    AnchorSideBottom.Side = asrBottom
+    Left = 0
+    Height = 240
+    Top = 0
+    Width = 320
+    Alignment = taCenter
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    AutoSize = False
+    Caption = '0.0.0'#13#10'0:0:0,0000'
+    Layout = tlCenter
+    ParentColor = False
+    ParentFont = False
+    OnClick = Label1Click
+  end
+  object PopupMenu1: TPopupMenu
+    left = 128
+    top = 96
+    object Pause: TMenuItem
+      Caption = 'Pause'
+      OnClick = PauseClick
+    end
+    object Settings: TMenuItem
+      Caption = 'Settings ...'
+      OnClick = SettingsClick
+    end
+    object CloseBtn: TMenuItem
+      Caption = 'Close'
+      OnClick = CloseBtnClick
+    end
+  end
+end
